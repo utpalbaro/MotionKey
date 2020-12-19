@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MotionKey</string>
+    <string name="Magnitude">Magnitude</string>
+    <string name="Message">Message</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="MagnitudeValue">1.5</string>
+</resources>
